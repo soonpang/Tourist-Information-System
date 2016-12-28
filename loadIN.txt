@@ -1,0 +1,32 @@
+1	Penang Island
+1	1	East Wind Watersports	18	604-8811210	Tanjung Bungah, Batu Ferringhi, Penang Island 11100, Malaysia
+2	1	Penang Golf Club	18	604-6442255	No.2, Jalan Bukit Jambul, Bayan Lepas, Penang Island, Malaysia
+3	1	Seahorse Watersport	18	016-4322215	Rasa Sayang Shangri-la Penang | Jalan Batu Ferringhi, Penang Island 11100, Malaysia
+4	2	Kek Lok Si Temple	4	604-8283317	No.2, Jalan Bukit Jambul, Bayan Lepas, Penang Island, Malaysia
+5	2	Dharmikarama Burmese Temple	4       604-2269575	24 Lorong Burmah, George Town, Penang Island, Malaysia
+6	2	Arulmigu Balathandayuthapani Temple	4       604-2458563	Jalan Kebun Bunga, George Town, Penang Island, Malaysia
+7	3	Gurney Paragon Shopping Mall	604-2288266	163-D, Persiaran Gurney, George Town, Penang Island 10250, Malaysia
+8	3	1st Avenue Mall	604-2519092	Jalan Magazine, George Town, Penang Island 10300 , Malaysia
+9	3	Pragin Mall	04-2622233	Jalan Dr Lim Chwee Leong, George Town, Penang Island 10100, Malaysia
+
+2	Kuala Lumpur
+10	1	Verticale	18	603-61784348	2-105, Jalan Prima Sg 3/2, Taman Sri Gombak | Batu Caves, Kuala Lumpur 68100, Malaysia
+11	1	Kompleks Sukan Negara	18	603-89944660	Jalan Barat, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia	
+12	1	Muay Thai Fitnesslab	18	603-62438886	Blok a, a-2-9 , Plaza Damas , Jalan Sri Hartamas 1 , Sri Hartamas , 50480 Kuala Lumpur ,Malaysia
+13	2	Little India Brickfields	4	604-22698296	-233 Malaysia, 231, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Malaysia	
+14	2	Batu Caves	4	603-2287942	Sri Subramaniam Temple, Batu Caves 68100, Malaysia
+15	2	Chinatown	4	604-1244952	Jalan Petaling, Kuala Lumpur, Malaysia
+16	3	Pavillion	6012-6594182	Pavilion Kuala Lumpur, 168, Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia
+17	3	Suria KlCC Mall	603-23822828	241, Jalan P Ramlee, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia
+18	3	Low Yat Plaza	603-21483651	Kuala Lumpur, Selangor, Malaysia
+
+3	Sarawak
+19	1	Semadang Kayak	18	6013-8042118	Dd 209, Jalan Batu Kawah, Sarawak, 93250 Kuching, Malaysia
+20	1	Kuching Caving	18	6012-8862347	Kuching 93500, Malaysia
+21	1	Premier Marine & Scuba Centre	18	6012-8892336	Jalan Wan Alwi, 93350 Kuching, Sarawak, Malaysia
+22	2	Sarawak Cultural Village	4	6082-846411	Damai Beach Resort, 93762 Kuching, Malaysia
+23	2	Orang Utan Murals	4	6044-584632	Jalan Power, Kuching, Malaysia
+24	2	Tua Pek Kong	4	6044-554822	Jalan Pasir Panjang, 32000 Siniawan, Kuching, Malaysia
+25	3	Siniawan Night Market	603-2555544	Siniawan, Kuching, Malaysia
+26	3	Pasar Serikin	603-2555544	Serikin, Bau, Sarawak, Malaysia
+27	3	CityOne Megamall	603-2555544	T20, Mall 2 City One Megamall, 1, Jalan Song, 93350 Kuching, Sarawak, Malaysia
